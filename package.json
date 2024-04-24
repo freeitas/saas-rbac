@@ -1,5 +1,5 @@
 {
-  "name": "rbac",
+  "name": "saas",
   "private": true,
   "scripts": {
     "build": "turbo build",
@@ -8,8 +8,8 @@
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
   "devDependencies": {
-    "@rbac/eslint-config": "*",
-    "@rbac/typescript-config": "*",
+    "@saas/eslint-config": "*",
+    "@saas/typescript-config": "*",
     "prettier": "^3.2.5",
     "turbo": "latest"
   },
